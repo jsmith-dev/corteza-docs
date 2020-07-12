@@ -11,7 +11,7 @@ The {PRODUCT_NAME} platform also includes Enterprise {APP_NAME_MESSAGING} (like 
 == Free Forever, Modern and Developed with all Organisations in Mind
 
 {PRODUCT_NAME}  is and will always be free and open source software, developed in a Foundation context.
-Built predominantly in Golang (backend) and Vue.js (frontend)m delivered as a cloud-friendly architecture and inspired by market-leading UX, {PRODUCT_NAME}  is for any organisation that values control of their critical software infrastructure and data.
+Built predominantly in Golang (backend) and Vue.js (frontend) delivered as a cloud-friendly architecture and inspired by market-leading UX, {PRODUCT_NAME}  is for any organisation that values control of their critical software infrastructure and data.
 
 == Compatible with your Favourite Services
 
